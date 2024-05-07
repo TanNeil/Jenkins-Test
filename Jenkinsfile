@@ -12,6 +12,8 @@ pipeline {
             steps{
                 echo "Stage 2 - command 1"
                 echo "Stage 2 - command 2"
+                echo "Stage 3 - command 3"
+                echo "Stage 4 - command 4"
             }
         }
     }
